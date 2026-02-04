@@ -1,4 +1,5 @@
 # ComandaSmart SaaS - Sistema de Gestión de Pedidos por QR
+sexo anal
 
 Proyecto de plataforma **Multi-tenant** para la gestión automatizada de comandas, pagos y menús en tiempo real para múltiples restaurantes.
 
